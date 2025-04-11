@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+button{
+    padding: 10px 20px;
+}
+
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
+    margin-top: 10px;
+}
+h5{
+    margin-top: 10px;
+    font-size: 23px;
+}
