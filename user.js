@@ -149,5 +149,6 @@ main.addEventListener('click',function(dets){
         star.istatus = 'Stranger'
     }
     khuFunction()
+    dhsjhdjh
 
 })
